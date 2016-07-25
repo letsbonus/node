@@ -6,4 +6,4 @@
 
 ### dev
 
-   docker build -t node-alpine:dev dev/
+    docker build -t node-alpine:dev dev/
