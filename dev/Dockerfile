@@ -38,4 +38,4 @@ RUN apk add --no-cache curl make gcc g++ python linux-headers paxctl libgcc git 
     /usr/share/man /tmp/* /var/cache/apk/* /root/.npm /root/.node-gyp /root/.gnupg \
     /usr/lib/node_modules/npm/man /usr/lib/node_modules/npm/doc /usr/lib/node_modules/npm/html
 
-RUN npm i -g bower grunt grunt-cli nodemon
+RUN npm i -g bower grunt grunt-cli nodemon yarn
